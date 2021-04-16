@@ -1,16 +1,20 @@
-### Hi there 👋
+## KangMin Lee : Android Software Engineer
+**Incheon National University(2015~)**<br>
+**INU Appcenter 11.5th(2019~)**<br>
+**SOPT 28th(2021~)**
+<h3 align="left"><b>🛠 Tech Stack 🛠</b></h3>
+<p align="left">
+<img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a> &nbsp 
+<img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp
+<br>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Xcode-147efb?style=flat-square&logo=xcode&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/></a> &nbsp </p>
 
-<!--
-**kkk5474096/kkk5474096** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkk5474096&layout=compact) 
 
-Here are some ideas to get you started:
+![Kangmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkk5474096&hide=stars,issues)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
