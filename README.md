@@ -13,8 +13,10 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/></a> &nbsp </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkk5474096&layout=compact) 
 
-![Kangmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkk5474096&hide=stars,issues)
+
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkk5474096)](https://solved.ac/kkk5474096)
+
+![Kangmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkk5474096&hide=stars,issues&show_icons=true&theme=radical)
 
 
