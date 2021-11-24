@@ -1,7 +1,7 @@
 ## KangMin Lee : Android Software Engineer
 **Incheon National University(2015~)**<br>
 **INU Appcenter 11.5th(2019~)**<br>
-**SOPT 28th(2021~)**
+**SOPT 28th,29th(2021~)**
 <h3 align="left"><b>🛠 Tech Stack 🛠</b></h3>
 <p align="left">
 <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/></a> &nbsp
