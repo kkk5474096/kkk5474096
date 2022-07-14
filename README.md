@@ -14,6 +14,8 @@
 <img src="https://img.shields.io/badge/Git-f05030?style=flat-square&logo=Git&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GitHub&logoColor=white"/></p>
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkkk5474096&count_bg=%2379C83D&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ## Projects
 > 2022
 * [HACKER](https://github.com/zaranaramorimori/HACKER-ANDROID) : 개발자를 위한 잔디 & 프로젝트 권장 어플리케이션 [Play Store Download](https://play.google.com/store/apps/details?id=com.teamzzong.hacker)
@@ -33,7 +35,13 @@
 - 28th SOPT Android part
 - 28th SOPT Android MVP
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkkk5474096&count_bg=%2379C83D&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<p>
+<img width="100" src="https://user-images.githubusercontent.com/56147398/178939915-f2095f4f-90ff-44bf-90c5-274876ff5e63.png">&nbsp;&nbsp;
+<img width="100" src="https://user-images.githubusercontent.com/56147398/178938833-6cc6eb2a-53a0-4c6a-a8f9-39df3f328045.png">&nbsp;&nbsp;
+<img width="100" src="https://user-images.githubusercontent.com/56147398/178940037-67f05fae-7fb6-416f-bad8-c4d1dd65d51f.png">&nbsp;&nbsp;
+<img width="100" src="https://user-images.githubusercontent.com/56147398/178940095-c42c473e-e040-4879-b44f-8873ebd376e7.png">&nbsp;&nbsp;
+<img width="100" src="https://user-images.githubusercontent.com/56147398/178940214-b72ad2fd-768d-423f-90f9-9e6ec6d491c4.png">
+</p>
 
 ![Kangmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkk5474096&hide=stars,issues&show_icons=true&theme=radical)
 
