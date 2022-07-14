@@ -16,8 +16,8 @@
 
 ## Projects
 > 2022
-* [HACKER](https://github.com/zaranaramorimori/HACKER-ANDROID) : 개발자를 위한 잔디 & 프로젝트 권장 어플리케이션
-* [FILL-IN](https://github.com/TeamFILL-IN/Fill-Android) : 필름 카메라 현상소 정보 어플리케이션 (29기 SOPT App-Jam)
+* [HACKER](https://github.com/zaranaramorimori/HACKER-ANDROID) : 개발자를 위한 잔디 & 프로젝트 권장 어플리케이션 [Play Store Download](https://play.google.com/store/apps/details?id=com.teamzzong.hacker)
+* [FILL-IN](https://github.com/TeamFILL-IN/Fill-Android) : 필름 카메라 현상소 정보 어플리케이션 (29기 SOPT App-Jam) [Play Store Download](https://play.google.com/store/apps/details?id=com.teamfillin.fillin)
 
 > 2021
 * [B:um](https://github.com/TeamB-um/B-umAndroid) : 스트레스 해소 어플리케이션 (28기 SOPT App-Jam)
