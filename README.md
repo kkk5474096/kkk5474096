@@ -17,6 +17,9 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkkk5474096&count_bg=%2379C83D&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## Projects
+> 2023
+* [YELL:O - 너의 [ ??? ]에 설렜어](https://github.com/team-yello/YELLO-Android) : 특정 그룹 및 대학교에 소속된 친구들과 함께 즐길 수 있는 익명기반 투표 서비스 [Play Store Download](https://play.google.com/store/apps/details?id=com.el.yello&hl=ko-KR)
+
 > 2022
 * [HACKER](https://github.com/zaranaramorimori/HACKER-ANDROID) : 개발자를 위한 잔디 & 프로젝트 권장 어플리케이션 [Play Store Download](https://play.google.com/store/apps/details?id=com.teamzzong.hacker)
 * [FILL-IN](https://github.com/TeamFILL-IN/Fill-Android) : 필름 카메라 현상소 정보 어플리케이션 (29기 SOPT App-Jam) [Play Store Download](https://play.google.com/store/apps/details?id=com.teamfillin.fillin)
