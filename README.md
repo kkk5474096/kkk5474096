@@ -30,6 +30,9 @@
 * [갸가갸가](https://github.com/TeamGaGaGaGa/GaGaGaGaAndroid) : 솝트인들을 위한 위트있는 첫인상 기록 서비스 (28기 솝커톤) 
 
 ## Experience
+> 2023
+- 14th DEPROMEET Android part
+
 > 2022
 - 30th SOPT 안드로이드 파트장
 
