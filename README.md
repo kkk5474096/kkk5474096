@@ -50,7 +50,8 @@
 <img width="100" src="https://user-images.githubusercontent.com/56147398/178940037-67f05fae-7fb6-416f-bad8-c4d1dd65d51f.png">&nbsp;&nbsp;
 <img width="100" src="https://user-images.githubusercontent.com/56147398/178940095-c42c473e-e040-4879-b44f-8873ebd376e7.png">&nbsp;&nbsp;
 <img width="100" src="https://user-images.githubusercontent.com/56147398/178940214-b72ad2fd-768d-423f-90f9-9e6ec6d491c4.png">&nbsp;&nbsp;
-<img width="100" src="https://github.com/kkk5474096/kkk5474096/assets/56147398/dc9f30f2-a50d-4583-b127-25f6dc37c2dc">
+<img width="100" src="https://github.com/kkk5474096/kkk5474096/assets/56147398/dc9f30f2-a50d-4583-b127-25f6dc37c2dc">&nbsp;&nbsp;
+<img width="100" src="https://github.com/user-attachments/assets/4cefa944-81d8-4d0c-aad3-0d5f3c740b09">
 </p>
 
 ![Kangmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkk5474096&hide=stars,issues&show_icons=true&theme=radical)
