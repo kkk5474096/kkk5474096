@@ -4,6 +4,8 @@
 ### Education
 * Incheon National University<br>
 
+
+  
 ## Tech Stack
 <p align="left">
 <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/></a> &nbsp
@@ -15,6 +17,10 @@
 <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GitHub&logoColor=white"/></p>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkkk5474096&count_bg=%2379C83D&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+<a href="https://github.com/devxb/gitanimals">
+  <img width=600 src="https://render.gitanimals.org/farms/kkk5474096"/>
+</a> 
 
 ## Projects
 > 2024
@@ -53,7 +59,7 @@
 <img width="100" src="https://github.com/kkk5474096/kkk5474096/assets/56147398/dc9f30f2-a50d-4583-b127-25f6dc37c2dc">&nbsp;&nbsp;
 <img width="100" src="https://github.com/user-attachments/assets/4cefa944-81d8-4d0c-aad3-0d5f3c740b09">
 </p>
-
-![Kangmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkk5474096&hide=stars,issues&show_icons=true&theme=radical)
+  
+![Kangmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkk5474096&hide=stars,issues&show_icons=true&theme=radical) 
 
 
