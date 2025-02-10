@@ -29,6 +29,9 @@
 </p>
 
 ## Projects
+> 2025
+* [딴딴 - 나의 운동 다마고치](https://github.com/ddan-dda-ra/ddan-ddan-android) : 칼로리로 키우는 운동 다마고치 서비스 [Play Store Download](https://play.google.com/store/apps/details?id=com.ddanddan.ddanddan)
+
 > 2024
 * [틈틈: IT 커리어 네트워킹 서비스](https://github.com/depromeet/TeumTeum-Android) : 사람 사이의 틈을 이어주는 IT 커리어 네트워킹 서비스 [Play Store Download](https://play.google.com/store/apps/details?id=com.teumteum.teumteum) [현재 서비스 중단]
   
