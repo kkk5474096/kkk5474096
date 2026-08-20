@@ -68,7 +68,4 @@
 <img width="100" src="https://github.com/kkk5474096/kkk5474096/assets/56147398/dc9f30f2-a50d-4583-b127-25f6dc37c2dc">&nbsp;&nbsp;
 <img width="100" src="https://github.com/user-attachments/assets/4cefa944-81d8-4d0c-aad3-0d5f3c740b09">
 </p>
-  
-![Kangmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkk5474096&hide=stars,issues&show_icons=true&theme=radical) 
-
 
